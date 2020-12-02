@@ -10,7 +10,7 @@ import java.util.Scanner;
  * 5 for  NOT operation
  * 6 for NOR operation
  * 7 for FAUL operation
- * @author Saugandhika
+ * @author Dev
  * @version 15.0
  * @since 14-11-2020
  */
@@ -29,7 +29,7 @@ interface Logics
 /**
  * class for operation
  * check the selected choice and perform the particular action according to the choice
- * @author Saugandhika
+ * @author Dev
  * @version 15.0
  * since 14-11-2020
  */
@@ -92,7 +92,7 @@ class Operatorations implements Logics
  * @see opertor()
  * @see selectingLogic()
  * @param arguments are not used
- * @author Saugandhika
+ * @author Dev
  * @version 15.0
  * @since 14-11-2020
  *
